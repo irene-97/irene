@@ -3,6 +3,10 @@
         <h2>
             Контакты
         </h2>
+        <p>
+            По любым вопросам со мной всегда можно связаться через социальные сети. Так же у меня есть блог,
+            к которому можно перейти <a href="https://ireneblog.beliarh.net/">по данной ссылке</a>.
+        </p>
         <div class="labels">
             <div class="city">
                 <img src="/images/svg/placeholder.svg" alt="Город">
