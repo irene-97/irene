@@ -59,6 +59,21 @@
 			}
 		}
 	}
+
+	p {
+		border-left: 4px solid #d7203e;
+		padding: 15px 21px 40px;
+		font-size: 23px;
+		text-align: justify;
+		text-indent: 30px;
+		font-style: italic;
+		color: $white;
+
+		a {
+			text-decoration: underline;
+			color: $white;
+		}
+	}
 }
 
 @media screen and (max-width: 930px) {

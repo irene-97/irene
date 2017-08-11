@@ -59,7 +59,7 @@
                     Дизайн и верстка своего портфолио
                 </div>
             </a>
-            <a class="work" href="" target="_blank" title="2017 Ссылка появится позже!">
+            <a class="work" href="https://ireneblog.beliarh.net/" target="_blank" title="2017">
                 <img src="/images/works/ireneblog.jpg" alt="">
                 <div class="desctiption">
                     Дизайн и верстка своего блога
