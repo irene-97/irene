@@ -1,0 +1,95 @@
+.block-contacts {
+	background: url('/images/contact.jpg') 0 0 no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	height: 700px;
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+
+	.labels {
+		display: flex;
+		padding: 40px 0;
+		color: $white;
+
+		.city {
+			width: 260px;
+			flex-grow: 1;
+			text-align: center;
+
+			img {
+				width: 100px;
+			}
+		}
+
+		.email {
+			width: 260px;
+			flex-grow: 1;
+			text-align: center;
+
+			img {
+				width: 100px;
+			}
+		}
+
+		.phone {
+			width: 260px;
+			flex-grow: 1;
+			text-align: center;
+
+			img {
+				width: 100px;
+			}
+		}
+	}
+
+	.links {
+		display: flex;
+		padding: 65px 0;
+		text-align: center;
+
+		a {
+			flex-grow: 1;
+			text-decoration: none;
+
+			img {
+				width: 120px;
+			}
+
+			&:nth-child(3) {
+				filter: invert(1);
+			}
+		}
+	}
+}
+
+@media screen and (max-width: 930px) {
+	.block-contacts {
+		.labels {
+			.city,
+			.email,
+			.phone {
+				.text {
+					font-size: 23px;
+				}
+			}
+		}
+	}
+}
+
+@media screen and (max-width: 840px) {
+	.block-contacts {
+		.labels {
+			.city,
+			.email,
+			.phone {
+
+				img {
+					width: 95px;
+				}
+
+				.text {
+					font-size: 17px;
+				}
+			}
+		}
+	}
+}
