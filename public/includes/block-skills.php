@@ -17,7 +17,7 @@
                     <img src="/images/svg/css-file-format-with-brackets.svg" alt="Styles">
                 </div>
                 <div class="text">
-                    Уверенное владение CSS / SCSS
+                    Владение CSS / SCSS
                 </div>
             </div>
             <div class="skill wow bounceInUp" data-wow-duration="2s">
@@ -25,7 +25,7 @@
                     <img src="/images/svg/js-file-format-symbol.svg" alt="JS">
                 </div>
                 <div class="text">
-                    Базовые знания Java Script / jQuery
+                    Базовые знания JS / jQuery
                 </div>
             </div>
             <div class="skill wow bounceInUp" data-wow-duration="2s">
@@ -33,7 +33,7 @@
                     <img src="/images/svg/php.svg" alt="PHP">
                 </div>
                 <div class="text">
-                    Начальные знания PHP
+                    Основы PHP
                 </div>
             </div>
             <div class="skill wow bounceInUp" data-wow-duration="2s">
@@ -41,7 +41,7 @@
                     <img src="/images/svg/git-logo.svg" alt="Git">
                 </div>
                 <div class="text">
-                    Командная работа с Git
+                    Командная работа Git
                 </div>
             </div>
             <div class="skill wow bounceInUp" data-wow-duration="2s">
@@ -49,15 +49,15 @@
                     <img src="/images/svg/adaptive-layout.svg" alt="Адаптивная верстка">
                 </div>
                 <div class="text">
-                    Возможность использования Bootstrap / Foundation
+                    Bootstrap / Foundation
                 </div>
             </div>
             <div class="skill wow bounceInUp" data-wow-duration="2s">
                 <div class="icon">
-                    <img src="/images/svg/box.svg" alt="Gulp">
+                    <img src="/images/svg/pipette-tool.svg" alt="Photoshop">
                 </div>
                 <div class="text">
-                    Использования таск-менеджера Gulp
+                    Создание макетов Photoshop
                 </div>
             </div>
             <div class="skill wow bounceInUp" data-wow-duration="2s">
