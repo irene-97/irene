@@ -4,7 +4,7 @@
             Контакты
         </h2>
         <p>
-            По любым вопросам со мной всегда можно связаться через социальные сети. Так же у меня есть блог,
+            Со мной всегда можно связаться по любым вопросам. Так же у меня есть блог,
             к которому можно перейти <a href="https://ireneblog.beliarh.net/" target="_blank">по данной ссылке</a>.
         </p>
         <div class="labels">
@@ -36,6 +36,9 @@
             </a>
             <a href="https://github.com/irene-97" target="_blank" title="Github">
                 <img src="/images/svg/github-logo.svg" alt="Гитхаб">
+            </a>
+            <a href="https://www.behance.net/irene_atremova" target="_blank" title="Behance">
+                <img src="/images/svg/behance.svg">
             </a>
             <a href="skype:irene_121997?chat" target="_blank" title="Skype">
                 <img src="/images/svg/skype.svg">

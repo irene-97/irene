@@ -51,7 +51,7 @@
 			text-decoration: none;
 
 			img {
-				width: 120px;
+				width: 108px;
 			}
 
 			&:nth-child(3) {
@@ -61,13 +61,11 @@
 	}
 
 	p {
-		border-left: 4px solid #d7203e;
-		padding: 15px 21px 40px;
+		border-left: 4px solid $alizarinCrimson;
+		padding: 15px 21px 21px;
 		font-size: 23px;
 		line-height: 34px;
-		text-align: justify;
 		text-indent: 30px;
-		font-style: italic;
 		color: $white;
 
 		a {
@@ -113,7 +111,7 @@
 
 			a {
 				img {
-					width: 91px;
+					width: 85px;
 				}
 			}
 		}

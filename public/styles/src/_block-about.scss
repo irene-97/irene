@@ -13,19 +13,20 @@
 
 	.text {
 		column-count: 2;
-		column-gap: 60px;
+		column-gap: 70px;
 		margin-bottom: 55px;
 		border-left: solid 4px $alizarinCrimson;
 		padding-top: 21px;
 		padding-left: 21px;
+		padding-bottom: 21px;
 		font-size: 23px;
 		line-height: 26px;
-		font-style: italic;
 		text-align: justify;
 
 		p {
+			font-size: 22px;
+			line-height: 33px;
 			text-indent: 30px;
-			line-height: 34px;
 		}
 	}
 }
