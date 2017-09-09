@@ -76,6 +76,12 @@
                     Дизайн сайта ветклиники
                 </div>
             </a>
+            <a class="work" rel="gallery1" href="/images/works/Портфолио-главная.jpg" target="_blank" title="2017">
+                <img src="/images/works/Портфолио.jpg" alt="">
+                <div class="desctiption">
+                    Дизайн сайта-портфолио
+                </div>
+            </a>
         </div>
     </div>
 </div>
