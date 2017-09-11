@@ -12,7 +12,7 @@
 <body>
 <div id="page">
     <?php include('includes/block-header.php') ?>
-    <?php include('includes/block-about.php') ?>
+    <?php //include('includes/block-about.php') ?>
     <?php include('includes/block-skills.php') ?>
     <?php include('includes/block-works.php') ?>
     <?php include('includes/block-contacts.php') ?>

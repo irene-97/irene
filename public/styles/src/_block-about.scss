@@ -1,21 +1,17 @@
 .block-about {
+	@include clearfix;
 	box-shadow: 0 0 10px rgba(0,0,0,0.5);
 
-	.photo {
+	img {
+		float: left;
+		width: 215px;
+		border-radius: 50%;
+		margin-right: 20px;
 		margin-bottom: 20px;
-		text-align: center;
-
-		img {
-			width: 345px;
-			border-radius: 50%;
-		}
 	}
 
 	.text {
-		column-count: 2;
-		column-gap: 70px;
 		margin-bottom: 55px;
-		border-left: solid 4px $alizarinCrimson;
 		padding-top: 21px;
 		padding-left: 21px;
 		padding-bottom: 21px;
@@ -27,14 +23,6 @@
 			font-size: 22px;
 			line-height: 33px;
 			text-indent: 30px;
-		}
-	}
-}
-
-@media screen and (max-width: 960px) {
-	.block-about {
-		.text {
-			column-count: 1;
 		}
 	}
 }

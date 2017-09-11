@@ -6,81 +6,81 @@
         <div class="works">
             <a class="work" href="https://premia.beliarh.net/" target="_blank" title="2016">
                 <img src="/images/works/premia.jpg" alt="">
-                <div class="desctiption">
+                <p>
                     Вёрстка сайта «Премия конкурентных закупок»
-                </div>
+                </p>
             </a>
             <a class="work" href="https://birtrans.beliarh.net/" target="_blank" title="2016">
                 <img src="/images/works/birtrans.jpg" alt="">
-                <div class="desctiption">
+                <p>
                     Вёрстка сайта компании «Биртранс»
-                </div>
+                </p>
             </a>
             <a class="work" href="https://domchehov.beliarh.net/" target="_blank" title="2016">
                 <img src="/images/works/domchehov.jpg" alt="">
-                <div class="desctiption">
+                <p>
                     Вёрстка сайта мебельного магазина «МДЧ»
-                </div>
+                </p>
             </a>
             <a class="work" href="https://pizza.beliarh.net/" target="_blank" title="2017">
                 <img src="/images/works/pizza.jpg" alt="">
-                <div class="desctiption">
+                <p>
                     Дизайн, вёрстка и программирование лендинга доставки пиццы
-                </div>
+                </p>
             </a>
             <a class="work" href="https://yazykov.beliarh.net/" target="_blank" title="2017">
                 <img src="/images/works/yazykov.jpg" alt="">
-                <div class="desctiption">
+                <p>
                     Дизайн, вёрстка и программирование сайта «Поэт Н.М.Языков»
-                </div>
+                </p>
             </a>
             <a class="work" href="https://cookery.beliarh.net/" target="_blank" title="2017">
                 <img src="/images/works/cookery.jpg" alt="">
-                <div class="desctiption">
+                <p>
                     Дизайн, вёрстка и программирование сайта «Кулинарные рецепты»
-                </div>
+                </p>
             </a>
             <a class="work" href="https://advertany.beliarh.net/" target="_blank" title="2017">
                 <img src="/images/works/advertany.jpg" alt="">
-                <div class="desctiption">
+                <p>
                     Дизайн, вёрстка и программирование доски объявлений
-                </div>
+                </p>
             </a>
             <a class="work" href="https://irene.beliarh.net/" target="_blank" title="2017">
                 <img src="/images/works/irene.beliarh.jpg" alt="">
-                <div class="desctiption">
+                <p>
                     Дизайн и вёрстка портфолио веб-разработчика
-                </div>
+                </p>
             </a>
             <a class="work" href="https://ireneblog.beliarh.net/" target="_blank" title="2017">
                 <img src="/images/works/ireneblog.jpg" alt="">
-                <div class="desctiption">
+                <p>
                     Дизайн и вёрстка блога
-                </div>
+                </p>
             </a>
             <a class="work" rel="gallery1" href="/images/works/Cafe-главная.jpg" target="_blank" title="2017">
                 <img src="/images/works/Cafe.jpg" alt="">
-                <div class="desctiption">
+                <p>
                     Дизайн сайта кофейни
-                </div>
+                </p>
             </a>
             <a class="work" rel="gallery1" href="/images/works/Shopbear-главная.jpg" target="_blank" title="2017">
                 <img src="/images/works/Shopbear.jpg" alt="">
-                <div class="desctiption">
+                <p>
                     Дизайн сайта магазина игрушек
-                </div>
+                </p>
             </a>
             <a class="work" rel="gallery1" href="/images/works/Ветклиника-главная.jpg" target="_blank" title="2017">
                 <img src="/images/works/Ветклиника.jpg" alt="">
-                <div class="desctiption">
+                <p>
                     Дизайн сайта ветклиники
-                </div>
+                </p>
             </a>
             <a class="work" rel="gallery1" href="/images/works/Портфолио-главная.jpg" target="_blank" title="2017">
                 <img src="/images/works/Портфолио.jpg" alt="">
-                <div class="desctiption">
+                <p>
                     Дизайн сайта-портфолио
-                </div>
+                </p>
             </a>
         </div>
     </div>
