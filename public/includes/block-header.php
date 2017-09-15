@@ -27,9 +27,6 @@
             <img src="/images/svg/humburger.svg" alt="Меню">
         </button>
         <div class="navigation-small">
-            <a href="#about" class="js-scrollTo">
-                Обо мне
-            </a>
             <a href="#skills" class="js-scrollTo">
                 Навыки
             </a>
@@ -38,6 +35,9 @@
             </a>
             <a href="#contacts" class="js-scrollTo">
                 Контакты
+            </a>
+            <a href="https://ireneblog.beliarh.net/" target="_blank">
+                Блог
             </a>
         </div>
         <div class="text">

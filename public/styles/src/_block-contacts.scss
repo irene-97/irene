@@ -2,7 +2,7 @@
 	background: url('/images/contact.jpg') 0 0 no-repeat;
 	background-size: cover;
 	background-attachment: fixed;
-	height: 700px;
+	height: 645px;
 	box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
 
 	.labels {
@@ -77,6 +77,7 @@
 
 @media screen and (max-width: 930px) {
 	.block-contacts {
+		background-attachment: scroll;
 		.labels {
 			.city,
 			.email,
