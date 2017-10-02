@@ -39,6 +39,9 @@
             <a href="skype:irene_121997?chat" target="_blank" title="Skype">
                 <img src="/images/svg/skype.svg">
             </a>
+            <a href="https://t.me/art_irene" target="_blank" title="Telegram">
+                <img src="/images/svg/telegram.svg">
+            </a>
         </div>
     </div>
 </div>

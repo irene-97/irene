@@ -3,7 +3,7 @@
 <head>
     <?php
 
-    $title = 'Дизайн и верстка адаптивных сайтов в Ульяновске. Портфолио веб-разработчика | Ирина Артемова';
+    $title = 'Портфолио веб-разработчика | Ирина Артемова | Дизайн и верстка адаптивных сайтов';
 
     include('includes/head.php');
 
@@ -12,7 +12,6 @@
 <body>
 <div id="page">
     <?php include('includes/block-header.php') ?>
-    <?php //include('includes/block-about.php') ?>
     <?php include('includes/block-skills.php') ?>
     <?php include('includes/block-works.php') ?>
     <?php include('includes/block-contacts.php') ?>

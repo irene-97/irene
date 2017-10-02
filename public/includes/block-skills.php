@@ -9,7 +9,7 @@
                     <img src="/images/svg/html-5-logo.svg" alt="HTML">
                 </div>
                 <div class="text">
-                    Верстка на HTML5
+                    HTML
                 </div>
             </div>
             <div class="skill wow bounceInUp" data-wow-duration="2s">
@@ -17,7 +17,7 @@
                     <img src="/images/svg/css-file-format-with-brackets.svg" alt="Styles">
                 </div>
                 <div class="text">
-                    Владение CSS / SCSS
+                    CSS / SCSS
                 </div>
             </div>
             <div class="skill wow bounceInUp" data-wow-duration="2s">
@@ -25,7 +25,7 @@
                     <img src="/images/svg/js-file-format-symbol.svg" alt="JS">
                 </div>
                 <div class="text">
-                    Базовые знания JS / jQuery
+                    Основы JS / jQuery
                 </div>
             </div>
             <div class="skill wow bounceInUp" data-wow-duration="2s">
@@ -41,7 +41,7 @@
                     <img src="/images/svg/git-logo.svg" alt="Git">
                 </div>
                 <div class="text">
-                    Командная работа Git
+                    Git
                 </div>
             </div>
             <div class="skill wow bounceInUp" data-wow-duration="2s">
@@ -57,7 +57,7 @@
                     <img src="/images/svg/pipette-tool.svg" alt="Photoshop">
                 </div>
                 <div class="text">
-                    Создание макетов Photoshop
+                    Photoshop / Illustrator
                 </div>
             </div>
             <div class="skill wow bounceInUp" data-wow-duration="2s">

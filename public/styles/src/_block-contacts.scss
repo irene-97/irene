@@ -58,6 +58,12 @@
 			&:nth-child(3) {
 				filter: invert(1);
 			}
+
+			&:nth-child(6) {
+				img {
+					border-radius: 50%;
+				}
+			}
 		}
 	}
 
@@ -110,8 +116,12 @@
 
 		.links {
 			padding: 8px 0;
+			flex-wrap: wrap;
 
 			a {
+				flex-basis: 33%;
+				margin-bottom: 40px;
+
 				img {
 					width: 85px;
 				}

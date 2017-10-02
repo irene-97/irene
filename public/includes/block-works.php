@@ -82,6 +82,18 @@
                     Дизайн сайта-портфолио
                 </p>
             </a>
+            <a class="work" rel="gallery1" href="/images/works/Суши-роллы-презентация.jpg" target="_blank" title="2017">
+                <img src="/images/works/Суши-роллы.jpg" alt="">
+                <p>
+                    Дизайн сайта доставки суши и роллов
+                </p>
+            </a>
+            <a class="work" rel="gallery1" href="/images/works/СуперДача.jpg" target="_blank" title="2017">
+                <img src="/images/works/Участки.jpg" alt="">
+                <p>
+                    Дизайн сайта СуперДАЧА (тестовое задание)
+                </p>
+            </a>
         </div>
     </div>
 </div>
