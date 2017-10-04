@@ -14,6 +14,9 @@
             <a href="#contacts" class="js-scrollTo">
                 Контакты
             </a>
+			<a href="https://ireneblog.beliarh.net/" target="_blank">
+				Блог
+			</a>
         </div>
         <button class="humburger">
             <img src="/images/svg/humburger.svg" alt="Меню">
@@ -28,6 +31,9 @@
             <a href="#contacts" class="js-scrollTo">
                 Контакты
             </a>
+			<a href="https://ireneblog.beliarh.net/" target="_blank">
+				Блог
+			</a>
         </div>
         <div class="text">
             Front End Developer<br>
