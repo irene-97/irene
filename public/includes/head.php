@@ -5,14 +5,8 @@
 <meta name="yandex-verification" content="e453e67b2fdfabff">
 <meta name='wmail-verification' content='cd2d28490754b5c7c0756ea0c76ec662'>
 
-<meta name="author" content="Артемова Ирина Геннадьевна">
-<meta name="keywords" content="Ирина Артемова, irene.beliarh, Ульяновск, разработка сайтов в Ульяновске, верстальщик, веб дизайн, веб, дизайн, верстка, фронтэнд разработка, портфолио верстальщика, работа, верстка сайтов, лендинг, landing page, responsive, веб-разработка, Front End Developer, FrontEnd">
-<meta name="description" content="Дизайн и адаптивная кроссбраузерная верстка в Ульяновске, портфолио веб-разработчика">
-<meta name="subject" content="Дизайн и верстка сайтов в Ульяновске | Портфолио верстальщика Ирины Артемовой">
-<meta name="language" content="ru">
-<meta name="author" content="Артемова Ирина, artemova.irene@gmail.com">
-<meta name="designer" content="Артемова Ирина, artemova.irene@gmail.com">
-<meta name="reply-to" content="artemova.irene@gmail.com">
+<meta name="keywords" content="Ирина Артемова, irene, beliarh, Irene Artemova, Ульяновск, разработка сайтов в Ульяновске, верстальщик, веб, дизайн, верстка, портфолио верстальщика, верстка сайтов, лендинг, landing page, responsive, веб-разработка, Front End Developer, FrontEnd">
+<meta name="description" content="Дизайн и адаптивная кроссбраузерная верстка в Ульяновске. Портфолио веб-разработчика">
 
 <meta property="og:title" content="Дизайн и верстка адаптивных сайтов в Ульяновске. Портфолио веб-разработчика | Ирина Артемова">
 <meta property="og:image" content="https://irene.beliarh.net/images/share.jpg">
