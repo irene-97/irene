@@ -52,12 +52,6 @@
                     Дизайн и вёрстка портфолио веб-разработчика
                 </p>
             </a>
-            <a class="work" href="https://ireneblog.beliarh.net/" target="_blank" title="2017">
-                <img src="/images/works/ireneblog.jpg" alt="">
-                <p>
-                    Дизайн и вёрстка блога
-                </p>
-            </a>
             <a class="work" rel="gallery1" href="/images/works/Cafe-главная.jpg" target="_blank" title="2017">
                 <img src="/images/works/Cafe.jpg" alt="">
                 <p>
