@@ -52,40 +52,46 @@
                     Дизайн и вёрстка портфолио веб-разработчика
                 </p>
             </a>
-            <a class="work" rel="gallery1" href="/images/works/Cafe-главная.jpg" target="_blank" title="2017">
+            <a class="work" href="/images/works/Cafe-главная.jpg" target="_blank" title="2017">
                 <img src="/images/works/Cafe.jpg" alt="">
                 <p>
                     Дизайн сайта кофейни
                 </p>
             </a>
-            <a class="work" rel="gallery1" href="/images/works/Shopbear-главная.jpg" target="_blank" title="2017">
+            <a class="work" href="/images/works/Shopbear-главная.jpg" target="_blank" title="2017">
                 <img src="/images/works/Shopbear.jpg" alt="">
                 <p>
                     Дизайн сайта магазина игрушек
                 </p>
             </a>
-            <a class="work" rel="gallery1" href="/images/works/Ветклиника-главная.jpg" target="_blank" title="2017">
+            <a class="work" href="/images/works/Ветклиника-главная.jpg" target="_blank" title="2017">
                 <img src="/images/works/Ветклиника.jpg" alt="">
                 <p>
                     Дизайн сайта ветклиники
                 </p>
             </a>
-            <a class="work" rel="gallery1" href="/images/works/Портфолио-главная.jpg" target="_blank" title="2017">
+            <a class="work" href="/images/works/Портфолио-главная.jpg" target="_blank" title="2017">
                 <img src="/images/works/Портфолио.jpg" alt="">
                 <p>
                     Дизайн сайта-портфолио
                 </p>
             </a>
-            <a class="work" rel="gallery1" href="/images/works/Суши-роллы-презентация.jpg" target="_blank" title="2017">
+            <a class="work" href="/images/works/Суши-роллы-презентация.jpg" target="_blank" title="2017">
                 <img src="/images/works/Суши-роллы.jpg" alt="">
                 <p>
                     Дизайн сайта доставки суши и роллов
                 </p>
             </a>
-            <a class="work" rel="gallery1" href="/images/works/Участки.jpg" target="_blank" title="2017">
+            <a class="work" href="/images/works/Участки.jpg" target="_blank" title="2017">
                 <img src="/images/works/СуперДача.jpg" alt="">
                 <p>
-                    Дизайн сайта СуперДАЧА (тестовое задание)
+                    Дизайн сайта «СуперДАЧА» (тестовое задание)
+                </p>
+            </a>
+            <a class="work" href="https://irene-97.github.io/mobile-app/" target="_blank" title="2017">
+                <img src="/images/works/mobileApp.jpg" alt="">
+                <p>
+                    Верстка сайта «MobileApp»
                 </p>
             </a>
         </div>
