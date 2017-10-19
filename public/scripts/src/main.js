@@ -1,5 +1,6 @@
 // @include('./humburger-menu.js')
 // @include('./menu.js')
 // @include('./wow.js')
+// @include('./more.js')
 // @include('./init-fancybox.js')
 // @include('./fancybox.js')

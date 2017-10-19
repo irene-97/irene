@@ -35,6 +35,16 @@ $(function() {
 	new WOW().init();
 });
 
+$(function() {
+	var $button = $('.block-works button');
+	var $hiddenWorks = $('.works .work.hidden');
+
+	$button.on('click', function(e) {
+		$hiddenWorks.removeClass('hidden');
+		$button.hide();
+	});
+});
+
 $(document).ready(function() {
 	$(".fancybox").fancybox({
 		openEffect: 'none',

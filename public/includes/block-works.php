@@ -76,30 +76,39 @@
                     Дизайн сайта-портфолио
                 </p>
             </a>
-            <a class="work" href="/images/works/Суши-роллы-презентация.jpg" target="_blank" title="2017">
+            <a class="work hidden" href="/images/works/Суши-роллы-презентация.jpg" target="_blank" title="2017">
                 <img src="/images/works/Суши-роллы.jpg" alt="Доставка суши и роллов">
                 <p>
                     Дизайн сайта доставки суши и роллов
                 </p>
             </a>
-            <a class="work" href="/images/works/Участки.jpg" target="_blank" title="2017">
+            <a class="work hidden" href="/images/works/Участки.jpg" target="_blank" title="2017">
                 <img src="/images/works/СуперДача.jpg" alt="Супер ДАЧА">
                 <p>
                     Дизайн сайта «СуперДАЧА» (тестовое задание)
                 </p>
             </a>
-            <a class="work" href="https://irene-97.github.io/mobile-app/" target="_blank" title="2017">
+            <a class="work hidden" href="https://irene-97.github.io/mobile-app/" target="_blank" title="2017">
                 <img src="/images/works/mobileApp.jpg" alt="MobileApp">
                 <p>
                     Верстка сайта «MobileApp»
                 </p>
             </a>
-            <a class="work" href="https://irene-97.github.io/strict/" target="_blank" title="2017">
+            <a class="work hidden" href="https://irene-97.github.io/strict/" target="_blank" title="2017">
                 <img src="/images/works/strict.jpg" alt="Strict">
                 <p>
                     Верстка сайта «Strict»
                 </p>
             </a>
+            <a class="work hidden" href="https://irene-97.github.io/lispum-media/" target="_blank" title="2017">
+                <img src="/images/works/LispumMedia.jpg" alt="Lispum Media">
+                <p>
+                    Верстка сайта «Lispum Media»
+                </p>
+            </a>
         </div>
+		<button>
+			Показать еще
+		</button>
     </div>
 </div>
