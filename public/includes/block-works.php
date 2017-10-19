@@ -101,7 +101,7 @@
                 </p>
             </a>
             <a class="work hidden" href="https://irene-97.github.io/lispum-media/" target="_blank" title="2017">
-                <img src="/images/works/LispumMedia.jpg" alt="Lispum Media">
+                <img src="/images/works/lispum-media.jpg" alt="Lispum Media">
                 <p>
                     Верстка сайта «Lispum Media»
                 </p>
