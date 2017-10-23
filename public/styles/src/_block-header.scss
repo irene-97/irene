@@ -38,6 +38,7 @@ header {
 
 	.humburger {
 		display: none;
+		outline: none;
 		background: none;
 		border: none;
 
@@ -57,7 +58,7 @@ header {
 		padding: 39px 23px;
 		font-size: 37px;
 		background: $black;
-
+		z-index: 5;
 
 		a {
 			display: block;
@@ -70,6 +71,10 @@ header {
 
 			&:first-child {
 				margin-top: 0;
+			}
+
+			&:last-child {
+				margin-bottom: 0;
 			}
 		}
 	}
