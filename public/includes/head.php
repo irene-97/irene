@@ -8,8 +8,13 @@
 <meta name="keywords" content="Ирина Артемова, irene, beliarh, Irene Artemova, Ульяновск, разработка сайтов в Ульяновске, верстальщик, веб, дизайн, верстка, портфолио верстальщика, верстка сайтов, лендинг, landing page, responsive, веб-разработка, Front End Developer, FrontEnd">
 <meta name="description" content="Дизайн и адаптивная кроссбраузерная верстка в Ульяновске. Портфолио веб-разработчика">
 
-<meta property="og:title" content="Дизайн и верстка адаптивных сайтов в Ульяновске. Портфолио веб-разработчика | Ирина Артемова">
+<meta property="og:title" content="Ирина Артемова. Портфолио веб-разработчика">
+<meta property="og:description" content="Дизайн и верстка адаптивных сайтов в Ульяновске. Портфолио веб-разработчика | Ирина Артемова">
 <meta property="og:image" content="https://irene.beliarh.net/images/share.jpg">
+
+<meta property="twitter:title" content="Ирина Артемова. Портфолио веб-разработчика">
+<meta property="twitter:description" content="Дизайн и верстка адаптивных сайтов в Ульяновске. Портфолио веб-разработчика | Ирина Артемова">
+<meta property="twitter:image" content="https://irene.beliarh.net/images/share.jpg">
 
 <!-- Yandex.Metrika counter -->
 <script type="text/javascript">
