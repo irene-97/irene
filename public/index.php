@@ -16,6 +16,7 @@
     <?php include('includes/block-works.php') ?>
     <?php include('includes/block-contacts.php') ?>
     <?php include('includes/block-copyright.php') ?>
+    <?php include('includes/scripts.php') ?>
 </div>
 </body>
 </html>

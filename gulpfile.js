@@ -54,7 +54,7 @@ gulp.task('scripts:vendor', () => {
         .pipe($.fileInclude({
             prefix: '// @',
         }))
-        // .pipe($.uglify())
+        .pipe($.uglify())
         .pipe(gulp.dest('public/scripts/dist'));
 });
 
