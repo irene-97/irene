@@ -4,14 +4,10 @@ $(() => {
 
     $humburger.on('click', function (e) {
         e.stopPropagation();
-        if ($navigationSmall.is(':hidden')) {
-            $navigationSmall.css('display', 'block');
-        } else {
-            $navigationSmall.css('display', 'none');
-        }
+        $navigationSmall.toggle();
     });
 
     $(document).on('click', function () {
-        $navigationSmall.css('display', 'none');
-    })
+        $navigationSmall.hide();
+    });
 });

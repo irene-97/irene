@@ -16,39 +16,7 @@
 <meta property="twitter:description" content="Дизайн и верстка адаптивных сайтов в Ульяновске. Портфолио веб-разработчика | Ирина Артемова">
 <meta property="twitter:image" content="https://irene.beliarh.net/images/share.jpg">
 
-<!-- Yandex.Metrika counter -->
-<script type="text/javascript">
-    (function (d, w, c) {
-        (w[c] = w[c] || []).push(function() {
-            try {
-                w.yaCounter45122373 = new Ya.Metrika({
-                    id:45122373,
-                    clickmap:true,
-                    trackLinks:true,
-                    accurateTrackBounce:true,
-                    webvisor:true
-                });
-            } catch(e) { }
-        });
-
-        var n = d.getElementsByTagName("script")[0],
-            s = d.createElement("script"),
-            f = function () { n.parentNode.insertBefore(s, n); };
-        s.type = "text/javascript";
-        s.async = true;
-        s.src = "https://mc.yandex.ru/metrika/watch.js";
-
-        if (w.opera == "[object Opera]") {
-            d.addEventListener("DOMContentLoaded", f, false);
-        } else { f(); }
-    })(document, window, "yandex_metrika_callbacks");
-</script>
-<noscript><div><img src="https://mc.yandex.ru/watch/45122373" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
-<!-- /Yandex.Metrika counter -->
-
 <title><?= @$title ?></title>
 <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
 <link rel="icon" type="image/png" href="favicon.ico" sizes="16x16">
 <link rel="stylesheet" href="styles/dist/main.css">
-<script src="scripts/dist/vendor.js"></script>
-<script src="scripts/dist/main.js"></script>
