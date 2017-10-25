@@ -52,37 +52,37 @@
 					Дизайн и вёрстка портфолио веб-разработчика
 				</p>
 			</a>
-			<a class="work" href="/images/works/Cafe-главная.jpg" target="_blank" title="2017">
+			<a class="work" href="https://www.behance.net/gallery/56283119/kofejnja" target="_blank" title="2017">
 				<img src="/images/works/Cafe.jpg" alt="Кофейня">
 				<p>
 					Дизайн сайта кофейни
 				</p>
 			</a>
-			<a class="work" href="/images/works/Shopbear-главная.jpg" target="_blank" title="2017">
+			<a class="work" href="https://www.behance.net/gallery/56278679/ShopBear" target="_blank" title="2017">
 				<img src="/images/works/Shopbear.jpg" alt="Магазин мишек">
 				<p>
 					Дизайн сайта магазина игрушек
 				</p>
 			</a>
-			<a class="work" href="/images/works/Ветклиника-главная.jpg" target="_blank" title="2017">
+			<a class="work" href="https://www.behance.net/gallery/56539131/vetklinika" target="_blank" title="2017">
 				<img src="/images/works/Ветклиника.jpg" alt="Ветклиника">
 				<p>
 					Дизайн сайта ветклиники
 				</p>
 			</a>
-			<a class="work" href="/images/works/Портфолио-главная.jpg" target="_blank" title="2017">
+			<a class="work" href="https://www.behance.net/gallery/56565199/Portfolio" target="_blank" title="2017">
 				<img src="/images/works/Портфолио.jpg" alt="Портфолио Ирины Артемовой">
 				<p>
 					Дизайн сайта-портфолио
 				</p>
 			</a>
-			<a class="work hidden" href="/images/works/Суши-роллы-презентация.jpg" target="_blank" title="2017">
+			<a class="work hidden" href="https://www.behance.net/gallery/57167207/dostavka-sushi-i-rollov" target="_blank" title="2017">
 				<img src="/images/works/Суши-роллы.jpg" alt="Доставка суши и роллов">
 				<p>
 					Дизайн сайта доставки суши и роллов
 				</p>
 			</a>
-			<a class="work hidden" href="/images/works/Участки.jpg" target="_blank" title="2017">
+			<a class="work hidden" href="https://www.behance.net/gallery/57340031/super-dacha-(testovoe-zadanie-dlja-IDEM)" target="_blank" title="2017">
 				<img src="/images/works/СуперДача.jpg" alt="Супер ДАЧА">
 				<p>
 					Дизайн сайта «СуперДАЧА» (тестовое задание)
