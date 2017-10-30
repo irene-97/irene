@@ -112,6 +112,12 @@
 					Верстка сайта «My Charity»
 				</p>
 			</a>
+			<a class="work hidden" href="https://irene-97.github.io/zebra/" target="_blank" title="2017">
+				<img src="/images/works/Zebra.jpg" alt="Zebra">
+				<p>
+					Верстка сайта «Zebra»
+				</p>
+			</a>
 		</div>
 		<button>
 			Показать еще
