@@ -1,9 +1,9 @@
 /* global $document */
 
-let $humburger = $('.humburger');
+let $hamburger = $('.hamburger');
 let $navigationSmall = $('.navigation-small');
 
-$humburger.on('click', (e) => {
+$hamburger.on('click', (e) => {
 	e.stopPropagation();
 	$navigationSmall.toggle();
 });
