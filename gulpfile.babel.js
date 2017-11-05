@@ -18,7 +18,7 @@ let argv = yargs.default({
 	name: null,
 	open: true,
 	port: 3000,
-	production: false,
+	production: true,
 	spa: false,
 	sourcemaps: true,
 	throwErrors: false,
@@ -171,13 +171,7 @@ export function jsMain() {
 		.pipe($.replace(/\/[*|/] eslint-disable.+/g, ''))
 		.pipe($.replace(/\/\/ no default\n?/g, ''))
 		.pipe($.if(argv.production, $.stripDebug()))
-		.pipe($.jsbeautifier({
-			js: {
-				indent_with_tabs: true,
-				end_with_newline: true,
-				max_preserve_newlines: 2,
-			},
-		}))
+		.pipe($.if(argv.production, $.uglify()))
 		.pipe(gulp.dest('build/js'));
 }
 
@@ -205,7 +199,7 @@ export function pug() {
 			}))
 			.pipe($.if(argv.debug, $.debug()))
 			.pipe($.pug({
-				pretty: true,
+				pretty: !argv.production,
 			}))
 			.pipe(gulp.dest('build'));
 	}
@@ -219,7 +213,7 @@ export function pug() {
 				.pipe(emittyPug.filter(global.emittyPugChangedFile))
 				.pipe($.if(argv.debug, $.debug()))
 				.pipe($.pug({
-					pretty: true,
+					pretty: !argv.production,
 				}))
 				.pipe(gulp.dest('build'))
 				.on('end', resolve)
