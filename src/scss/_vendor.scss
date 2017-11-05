@@ -1,0 +1,9 @@
+@import "vendor/reset";
+@import "../../node_modules/wow.js/css/libs/animate";
+@import "../../node_modules/fancybox/dist/scss/jquery.fancybox";
+
+.fancybox-skin {
+	-webkit-border-radius: 0;
+	-moz-border-radius: 0;
+	border-radius: 0;
+}

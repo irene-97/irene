@@ -1,0 +1,53 @@
+extends pug/base
+
+prepend vars
+	- title = 'Ирина Артемова. Портфолио веб-разработчика'
+	- description = 'Дизайн и адаптивная кроссбраузерная верстка в Ульяновске. Портфолио веб-разработчика'
+	- image = 'https://irene.beliarh.net/images/share.jpg'
+
+append vars
+	- html.classList.push('page-index')
+	- meta.keywords = 'Ирина Артемова, irene, beliarh, Irene Artemova, Ульяновск, разработка сайтов в Ульяновске, верстальщик, веб, дизайн, верстка, портфолио верстальщика, верстка сайтов, лендинг, landing page, responsive, веб-разработка, Front End Developer, FrontEnd'
+
+append meta
+	meta(name="format-detection" content="telephone=no")
+	meta(name="yandex-verification" content="e453e67b2fdfabff")
+	meta(name="wmail-verification" content="cd2d28490754b5c7c0756ea0c76ec662")
+
+block content
+	#page
+		include pug/block-header
+		include pug/block-skills
+		include pug/block-works
+		include pug/block-contacts
+		include pug/block-copyright
+
+prepend scripts
+	script.
+		(function (d, w, c) {
+			(w[c] = w[c] || []).push(function() {
+				try {
+					w.yaCounter45122373 = new Ya.Metrika({
+						id:45122373,
+						clickmap:true,
+						trackLinks:true,
+						accurateTrackBounce:true,
+						webvisor:true
+					});
+				} catch(e) { }
+			});
+
+			var n = d.getElementsByTagName("script")[0],
+				s = d.createElement("script"),
+				f = function () { n.parentNode.insertBefore(s, n); };
+			s.type = "text/javascript";
+			s.async = true;
+			s.src = "https://mc.yandex.ru/metrika/watch.js";
+
+			if (w.opera == "[object Opera]") {
+				d.addEventListener("DOMContentLoaded", f, false);
+			} else { f(); }
+		})(document, window, "yandex_metrika_callbacks");
+	noscript
+		div
+			img(src="https://mc.yandex.ru/watch/45122373" style="position:absolute; left:-9999px;" alt="")

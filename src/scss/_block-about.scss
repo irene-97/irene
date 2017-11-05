@@ -1,0 +1,29 @@
+.block-about {
+	@include clearfix;
+
+	box-shadow: 0 0 10px rgba($color-black, 0.5);
+
+	img {
+		float: left;
+		margin-right: 20px;
+		margin-bottom: 20px;
+		border-radius: 50%;
+		width: 215px;
+	}
+
+	.text {
+		margin-bottom: 55px;
+		padding-top: 21px;
+		padding-bottom: 21px;
+		padding-left: 21px;
+		font-size: 23px;
+		line-height: 26px;
+		text-align: justify;
+
+		p {
+			font-size: 22px;
+			line-height: 33px;
+			text-indent: 30px;
+		}
+	}
+}

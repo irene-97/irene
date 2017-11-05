@@ -1,0 +1,137 @@
+header {
+	@include clearfix;
+
+	height: 90vh;
+	min-height: 800px;
+	box-shadow: 0 0 10px rgba($color-black, 0.5);
+	background: url("../images/header.jpg") 50% 60% no-repeat;
+	background-size: cover;
+
+	span {
+		float: left;
+		margin-top: 35px;
+		font-size: 25px;
+		text-transform: uppercase;
+		color: $color-white;
+
+		img {
+			vertical-align: middle;
+			width: 52px;
+		}
+	}
+
+	.navigation {
+		float: right;
+		margin-top: 50px;
+		font-size: 25px;
+
+		a {
+			margin: 0 13px;
+			text-decoration: none;
+			text-transform: uppercase;
+			color: $color-white;
+
+			&:hover {
+				border-bottom: solid 3px $color-ocean-green;
+			}
+		}
+	}
+
+	.humburger {
+		display: none;
+		outline: none;
+		border: none;
+		background: none;
+
+		img {
+			width: 65px;
+		}
+	}
+
+	.navigation-small {
+		position: absolute;
+		right: 165px;
+		top: 32px;
+		z-index: 5;
+		display: none;
+		border: solid 2px $color-white;
+		padding: 39px 23px;
+		width: 430px;
+		height: auto;
+		font-size: 37px;
+		background: $color-black;
+
+		a {
+			display: block;
+			margin: 55px 0;
+			padding: 8px;
+			font-size: 52px;
+			line-height: 52px;
+			text-decoration: none;
+			color: $color-white;
+
+			&:first-child {
+				margin-top: 0;
+			}
+
+			&:last-child {
+				margin-bottom: 0;
+			}
+		}
+	}
+
+	.text {
+		clear: both;
+		padding-top: 144px;
+		font-weight: bold;
+		font-size: 74px;
+		line-height: 77px;
+		text-align: center;
+		text-transform: uppercase;
+		color: $color-white;
+	}
+
+	.arrow {
+		margin-top: 122px;
+		text-align: center;
+
+		img {
+			display: inline-block;
+			width: 100px;
+		}
+	}
+}
+
+@media screen and (max-width: 930px) {
+	header {
+		@include clearfix;
+
+		.navigation {
+			display: none;
+		}
+
+		.humburger {
+			display: block;
+			float: right;
+			margin-top: 26px;
+			margin-right: 45px;
+		}
+	}
+}
+
+@media screen and (max-width: 875px) {
+	header {
+		@include clearfix;
+
+		.text {
+			padding-top: 80px;
+			padding-bottom: 0;
+			font-size: 56px;
+			line-height: 68px;
+		}
+
+		.arrow {
+			margin-top: 180px;
+		}
+	}
+}
