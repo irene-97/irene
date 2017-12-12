@@ -1,1 +1,3 @@
-new WOW().init();
+if (!bowser.mobile) {
+	new WOW().init();
+}
