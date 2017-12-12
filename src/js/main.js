@@ -8,3 +8,7 @@ svg4everybody();
 // @include('./wow.js')
 // @include('./more.js')
 // @include('./fancybox.js')
+
+if ($(window).width() < 1024) {
+	$('.skill').removeClass('wow');
+}
