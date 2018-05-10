@@ -8,7 +8,7 @@ header {
 	background: url("../images/header-cat.jpg") 50% 60% no-repeat;
 	background-size: cover;
 
-	span {
+	.logo {
 		float: left;
 		margin-top: 37px;
 		font-size: 25px;
@@ -17,13 +17,13 @@ header {
 
 		img {
 			vertical-align: middle;
-			width: 52px;
+			width: 220px;
 		}
 	}
 
 	.navigation {
 		float: right;
-		margin-top: 50px;
+		margin-top: 68px;
 		font-size: 25px;
 
 		a {
@@ -81,24 +81,31 @@ header {
 		}
 	}
 
-	.text {
+	.title {
 		clear: both;
-		padding-top: 144px;
+		padding-top: 160px;
 		font-weight: bold;
-		font-size: 74px;
-		line-height: 122px;
+		font-size: 50px;
+		line-height: 80px;
 		text-align: center;
 		text-transform: uppercase;
 		color: $color-white;
 	}
 
+	.subtitle {
+		font-size: 30px;
+		line-height: 33px;
+		text-align: center;
+		color: $color-white;
+	}
+
 	.arrow {
-		margin-top: 152px;
+		margin-top: 283px;
 		text-align: center;
 
 		img {
 			display: inline-block;
-			width: 100px;
+			width: 80px;
 		}
 	}
 }

@@ -30,6 +30,7 @@
 			box-shadow: 0 0 20px rgba($color-black, 0.3);
 			text-decoration: none;
 			background: $color-white;
+			transition: box-shadow 0.3s ease;
 
 			p {
 				font-size: 19px;
@@ -44,9 +45,7 @@
 			}
 
 			&:hover {
-				p {
-					text-decoration: underline;
-				}
+				box-shadow: 0 0 33px rgba($color-black, 0.5);
 			}
 
 			&.hidden {

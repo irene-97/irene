@@ -16,17 +16,14 @@
 			transition: transform 0.5s ease;
 
 			.icon {
-				img {
+				svg {
 					width: 115px;
-				}
-
-				.text {
-
+					fill: $color-dove-gray;
 				}
 			}
 
-			&:hover {
-				transform: scale(1.1);
+			.text {
+				color: $color-black;
 			}
 		}
 	}
