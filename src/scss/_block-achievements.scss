@@ -50,6 +50,10 @@
 				transform: translate(-50%, -50%);
 			}
 
+			.is-browser-ie & {
+				flex-basis: calc(33.3% - 64px);
+			}
+
 			&:hover {
 				&::before {
 					opacity: 1;

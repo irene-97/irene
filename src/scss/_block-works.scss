@@ -51,6 +51,10 @@
 			&.hidden {
 				display: none;
 			}
+
+			.is-browser-ie & {
+				flex-basis: calc(33.3% - 64px);
+			}
 		}
 	}
 
