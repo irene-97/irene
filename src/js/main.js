@@ -8,6 +8,7 @@ svg4everybody();
 // @include('./wow.js')
 // @include('./more.js')
 // @include('./fancybox.js')
+// @include('./init-fancybox.js')
 
 $('h2 .info').on('click', () => {
 	$('h2').toggleClass('info-text-open');
