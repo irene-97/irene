@@ -1,6 +1,45 @@
 .block-works {
 	padding-bottom: 55px;
 
+	h2 {
+		&.info-text-open {
+			.info-text {
+				opacity: 1;
+				visibility: visible;
+			}
+		}
+	}
+
+	.info {
+		position: absolute;
+		margin-left: 5px;
+		width: 23px;
+		height: 23px;
+		cursor: pointer;
+	}
+
+	.info-text {
+		position: absolute;
+		left: 50%;
+		top: 60px;
+		z-index: 10;
+		margin-left: -44px;
+		border-radius: 7px;
+		padding: 13px;
+		width: 250px;
+		box-shadow: 0 0 20px rgba(0, 0, 0, 0.3);
+		font-size: 15px;
+		line-height: 20px;
+		text-align: left;
+		text-transform: none;
+		color: $color-black;
+		background-color: $color-white;
+		opacity: 0;
+		visibility: hidden;
+		transform: translateX(-50%);
+		transition: opacity 0.3s ease;
+	}
+
 	.text {
 		padding-bottom: 51px;
 
