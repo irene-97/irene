@@ -69,15 +69,15 @@
 	}
 
 	p {
-		border-left: 4px solid $color-alizarin-crimson;
 		padding: 15px 21px 21px;
 		font-size: 23px;
 		line-height: 34px;
-		text-indent: 30px;
+		text-align: center;
 		color: $color-white;
 
 		a {
-			text-decoration: underline;
+			border-bottom: solid 1px $color-white;
+			text-decoration: none;
 			color: $color-white;
 		}
 	}
