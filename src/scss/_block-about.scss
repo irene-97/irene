@@ -59,4 +59,31 @@
 			line-height: 30px;
 		}
 	}
+
+	@media (max-width: 940px) {
+		&__photo {
+			width: 280px;
+			height: 373px;
+		}
+
+		h1 {
+			font-size: 32px;
+			line-height: 45px;
+		}
+	}
+
+	@media (max-width: 750px) {
+		&__top {
+			flex-direction: column;
+		}
+
+		h1 {
+			order: 1;
+		}
+
+		&__photo {
+			order: 2;
+			margin: 0 auto;
+		}
+	}
 }
