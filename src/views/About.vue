@@ -84,8 +84,7 @@
 						<nobr>Санкт-Петербург</nobr>), Волга-М (г.Ульяновск).
 					</p>
 					<p>
-						Имеется <a href="https://irene.beliarh.net" target="_blank">портфолио с&nbsp;некоторыми
-						работами</a>.
+						Имеется <router-link to="/">портфолио с&nbsp;некоторыми работами</router-link>.
 					</p>
 					<p class="subtitle">
 						Почему предпочитаю удалённую работу?
