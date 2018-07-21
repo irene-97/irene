@@ -14,7 +14,8 @@ body {
 	background: $color-gallery;
 }
 
-#page {
+#app {
+	position: relative;
 	overflow: hidden;
 	min-width: 640px;
 }
@@ -29,7 +30,5 @@ h2 {
 }
 
 .page-about {
-	body {
-		background-color: $color-white;
-	}
+	background-color: $color-white;
 }
