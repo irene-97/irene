@@ -1,3 +1,5 @@
+import 'babel-polyfill';
+import 'ninelines-ua-parser';
 import Vue from 'vue';
 import VueScrollTo from 'vue-scrollto';
 import App from './App.vue';
