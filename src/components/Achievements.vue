@@ -46,7 +46,7 @@
 					{
 						href: 'achievements3.png',
 						src: 'achievements3-preview.png',
-						title: 'Сертификат о прохождении курса &quot;Вёрстка&quot; образовательного проекта GREENWICH от MST Digital Agency',
+						title: 'Сертификат о прохождении курса "Вёрстка" образовательного проекта GREENWICH от MST Digital Agency',
 					},
 				],
 			};
