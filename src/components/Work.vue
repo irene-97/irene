@@ -1,5 +1,5 @@
 <template>
-	<a :class="['work', {hidden}]" :href="href" target="_blank" :title="year">
+	<a :class="['work', {hidden}]" :href="href" target="_blank" :title="fullDate">
 		<img :src="require(`../assets/images/works/${src}`)" :alt="alt"/>
 		<p>{{ text }}</p>
 		<span>{{ year }}</span>
@@ -9,7 +9,7 @@
 <script>
 	export default {
 		name: 'Work',
-		props: ['href', 'year', 'src', 'alt', 'text', 'hidden'],
+		props: ['href', 'year', 'fullDate', 'src', 'alt', 'text', 'hidden'],
 	};
 </script>
 

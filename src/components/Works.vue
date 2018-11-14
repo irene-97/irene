@@ -19,6 +19,7 @@
 					v-for="(work, index) in list"
 					:href="work.href"
 					:year="work.year"
+					:fullDate="work.fullDate"
 					:src="work.src"
 					:alt="work.alt"
 					:text="work.text"
@@ -56,6 +57,7 @@
 					{
 						href: 'https://irene-97.github.io/dior-addict/',
 						year: '2018',
+						fullDate: 'январь 2018',
 						src: 'Dior.jpg',
 						alt: 'Dior',
 						text: 'Вёрстка лендинга косметики Dior',
@@ -63,6 +65,7 @@
 					{
 						href: 'https://premia.beliarh.net/',
 						year: '2016',
+						fullDate: 'июль 2016',
 						src: 'premia.jpg',
 						alt: 'Премия',
 						text: 'Вёрстка сайта премии «Лидер конкурентных закупок»',
@@ -70,6 +73,7 @@
 					{
 						href: 'https://birtrans.beliarh.net/',
 						year: '2016',
+						fullDate: 'август 2016',
 						src: 'birtrans.jpg',
 						alt: 'Транспортная компания',
 						text: 'Вёрстка сайта транспортной компании «Биртранс»',
@@ -77,6 +81,7 @@
 					{
 						href: 'https://domchehov.beliarh.net/',
 						year: '2016',
+						fullDate: 'октябрь 2016',
 						src: 'domchehov.jpg',
 						alt: 'МДЧ',
 						text: 'Вёрстка сайта мебельного магазина «МДЧ»',
@@ -84,6 +89,7 @@
 					{
 						href: 'https://cookery.beliarh.net/',
 						year: '2017',
+						fullDate: 'ноябрь 2016 - январь 2017',
 						src: 'cookery.jpg',
 						alt: 'Кулинарные рецепты',
 						text: 'Дизайн, вёрстка и программирование сайта «Кулинарные рецепты»',
@@ -91,6 +97,7 @@
 					{
 						href: 'https://irene-97.github.io/zebra/',
 						year: '2017',
+						fullDate: 'август 2017',
 						src: 'Zebra.jpg',
 						alt: 'Zebra',
 						text: 'Вёрстка сайта магазина одежды «Zebra»',
@@ -98,6 +105,7 @@
 					{
 						href: 'https://www.behance.net/gallery/56278679/ShopBear',
 						year: '2017',
+						fullDate: 'август 2017',
 						src: 'Shopbear.jpg',
 						alt: 'Магазин мишек',
 						text: 'Дизайн сайта магазина игрушек',
@@ -105,6 +113,7 @@
 					{
 						href: 'https://irene-97.github.io/bakery/',
 						year: '2017',
+						fullDate: 'сентябрь 2017',
 						src: 'bakery.jpg',
 						alt: 'Пекарня',
 						text: 'Вёрстка сайта пекарни',
@@ -112,6 +121,7 @@
 					{
 						href: 'https://irene-97.github.io/winter-resort/',
 						year: '2017',
+						fullDate: 'ноябрь 2017',
 						src: 'crios.jpg',
 						alt: 'Зимний курорт',
 						text: 'Вёрстка лендинга зимнего курорта',
@@ -119,6 +129,7 @@
 					{
 						href: 'https://advertany.beliarh.net/',
 						year: '2017',
+						fullDate: 'март - май 2017',
 						src: 'advertany.jpg',
 						alt: 'Доска объявлений',
 						text: 'Дизайн, вёрстка и программирование доски объявлений',
@@ -126,6 +137,7 @@
 					{
 						href: 'https://irene-97.github.io/cantus/',
 						year: '2017',
+						fullDate: 'декабрь 2017',
 						src: 'cantus.jpg',
 						alt: 'Музыкальный сайт Cautus',
 						text: 'Вёрстка музыкального сайта',
@@ -133,6 +145,7 @@
 					{
 						href: 'https://www.behance.net/gallery/57167207/dostavka-sushi-i-rollov',
 						year: '2017',
+						fullDate: 'сентябрь 2017',
 						src: 'sushi.jpg',
 						alt: 'Доставка суши и роллов',
 						text: 'Дизайн сайта доставки суши и роллов',
@@ -140,6 +153,7 @@
 					{
 						href: 'https://irene-97.github.io/my-charity/',
 						year: '2017',
+						fullDate: 'октябрь 2017',
 						src: 'my-charity.jpg',
 						alt: 'My Charity',
 						text: 'Вёрстка сайта «My Charity»',
@@ -147,6 +161,7 @@
 					{
 						href: 'https://irene-97.github.io/author-blog/',
 						year: '2017',
+						fullDate: 'ноябрь 2017',
 						src: 'author-blog.jpg',
 						alt: 'Блог',
 						text: 'Вёрстка блога',
@@ -154,6 +169,7 @@
 					{
 						href: 'https://cats.beliarh.net/',
 						year: '2017',
+						fullDate: 'ноябрь - декабрь 2017',
 						src: 'cats.jpg',
 						alt: 'Как назвать кота',
 						text: 'Дизайн и вёрстка сайта «Как назвать кота»',
@@ -161,6 +177,7 @@
 					{
 						href: 'https://irene.beliarh.net/',
 						year: '2017',
+						fullDate: 'июль 2017 - наст.вр.',
 						src: 'irene.beliarh.jpg',
 						alt: 'Портфолио Ирины Артемовой',
 						text: 'Дизайн, вёрстка и программирование портфолио веб-разработчика',
@@ -168,6 +185,7 @@
 					{
 						href: 'https://yazykov.beliarh.net/',
 						year: '2017',
+						fullDate: 'октябрь 2016 - январь 2017',
 						src: 'yazykov.jpg',
 						alt: 'Поэт Языков',
 						text: 'Дизайн, вёрстка и программирование сайта «Поэт Н.М.Языков»',
@@ -175,6 +193,7 @@
 					{
 						href: 'https://irene-97.github.io/lispum-media/',
 						year: '2017',
+						fullDate: 'октябрь 2017',
 						src: 'lispum-media.jpg',
 						alt: 'Lispum Media',
 						text: 'Вёрстка сайта «Lispum Media»',
@@ -182,6 +201,7 @@
 					{
 						href: 'https://irene-97.github.io/mobile-app/',
 						year: '2017',
+						fullDate: 'октябрь 2017',
 						src: 'mobileApp.jpg',
 						alt: 'MobileApp',
 						text: 'Вёрстка лендинга «MobileApp»',
@@ -189,6 +209,7 @@
 					{
 						href: 'https://www.behance.net/gallery/59828687/noch-prodazh-avtomobilej',
 						year: '2017',
+						fullDate: 'сентябрь 2017',
 						src: 'Luxe.jpg',
 						alt: 'Ночь продаж Luxe Fiat',
 						text: 'Дизайн лендинга ночи продаж автомобилей',
@@ -196,6 +217,7 @@
 					{
 						href: 'https://www.behance.net/gallery/57340031/super-dacha-(testovoe-zadanie-dlja-IDEM)',
 						year: '2017',
+						fullDate: 'сентябрь 2017',
 						src: 'dasha.jpg',
 						alt: 'Супер ДАЧА',
 						text: 'Дизайн сайта «СуперДАЧА» (тестовое задание)',
@@ -203,6 +225,7 @@
 					{
 						href: 'https://irene-97.github.io/strict/',
 						year: '2017',
+						fullDate: 'октябрь 2017',
 						src: 'strict.jpg',
 						alt: 'Strict',
 						text: 'Вёрстка лендинга «Strict»',
@@ -210,6 +233,7 @@
 					{
 						href: 'https://www.behance.net/gallery/56565199/Portfolio',
 						year: '2017',
+						fullDate: 'август 2017',
 						src: 'portfolio.jpg',
 						alt: 'Портфолио Ирины Артемовой',
 						text: 'Дизайн сайта-портфолио',
@@ -217,6 +241,7 @@
 					{
 						href: 'https://www.behance.net/gallery/56283119/kofejnja',
 						year: '2017',
+						fullDate: 'август 2017',
 						src: 'Cafe.jpg',
 						alt: 'Кофейня',
 						text: 'Дизайн сайта кофейни',
@@ -224,13 +249,15 @@
 					{
 						href: 'https://www.behance.net/gallery/56539131/vetklinika',
 						year: '2017',
+						fullDate: 'сентябрь 2017',
 						src: 'doctor-pets.jpg',
 						alt: 'Ветклиника',
 						text: 'Дизайн сайта ветклиники',
 					},
 					{
 						href: 'https://pizza.beliarh.net/',
-						year: '2017',
+						year: '2016',
+						fullDate: 'декабрь 2016',
 						src: 'pizza.jpg',
 						alt: 'Доставка пиццы',
 						text: 'Дизайн, вёрстка и программирование лендинга доставки пиццы',
