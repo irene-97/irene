@@ -2,6 +2,7 @@
 	<a :class="['work', {hidden}]" :href="href" target="_blank" :title="year">
 		<img :src="require(`../assets/images/works/${src}`)" :alt="alt"/>
 		<p>{{ text }}</p>
+		<span>{{ year }}</span>
 	</a>
 </template>
 
@@ -31,6 +32,17 @@
 			font-size: 19px;
 			line-height: 24px;
 			color: $color-black;
+		}
+
+		span {
+			position: absolute;
+			right: 20px;
+			top: 20px;
+			padding: 2px 7px;
+			font-size: 15px;
+			line-height: 20px;
+			color: $color-white;
+			background-color: rgba($color-black, 0.8);
 		}
 
 		img {
