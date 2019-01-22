@@ -60,7 +60,7 @@
 						fullDate: 'январь 2018',
 						src: 'Dior.jpg',
 						alt: 'Dior',
-						text: 'Вёрстка лендинга косметики Dior',
+						text: 'Вёрстка лендинга косметики «Dior»',
 					},
 					{
 						href: 'https://premia.beliarh.net/',
@@ -77,6 +77,14 @@
 						src: 'birtrans.jpg',
 						alt: 'Транспортная компания',
 						text: 'Вёрстка сайта транспортной компании «Биртранс»',
+					},
+					{
+						href: 'https://v-bank.beliarh.net/',
+						year: '2018',
+						fullDate: 'июнь 2018',
+						src: 'vbank.jpg',
+						alt: 'Банк',
+						text: 'Вёрстка страницы сайта банка «Венец»',
 					},
 					{
 						href: 'https://domchehov.beliarh.net/',
