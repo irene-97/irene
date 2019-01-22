@@ -9,4 +9,4 @@ Irene
 
  ![Irene Artemova]( https://ireneblog.beliarh.net/wp-content/uploads/2017/10/cropped-irene-main-logo-2.png)
  
- © Ирина Артемова, 2018
+ © Ирина Артемова, 2019
