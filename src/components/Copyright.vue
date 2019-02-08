@@ -1,7 +1,7 @@
 <template>
 	<div class="block-copyright">
 		<div class="container">
-			<h3>© Ирина Артемова, г. Ульяновск, 2018</h3>
+			<h3>© Ирина Артемова, г. Ульяновск, 2019</h3>
 		</div>
 		<div class="cat">
 			<img src="../assets/images/svg/Cat.svg" alt="Irene Artemova">

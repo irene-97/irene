@@ -2,9 +2,9 @@
 	<div class="block-contacts" id="contacts">
 		<div class="container">
 			<h2>Контакты</h2>
-			<p>Подробная информация
+			<p>Подробное
 				<router-link to="/about">
-					о&nbsp;моей работе
+					резюме
 				</router-link>
 			</p>
 			<div class="labels">
