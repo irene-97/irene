@@ -175,14 +175,6 @@
 						text: 'Вёрстка блога',
 					},
 					{
-						href: 'https://cats.beliarh.net/',
-						year: '2017',
-						fullDate: 'ноябрь - декабрь 2017',
-						src: 'cats.jpg',
-						alt: 'Как назвать кота',
-						text: 'Дизайн и вёрстка сайта «Как назвать кота»',
-					},
-					{
 						href: 'https://irene.beliarh.net/',
 						year: '2017',
 						fullDate: 'июль 2017 - наст.вр.',

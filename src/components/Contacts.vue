@@ -2,11 +2,6 @@
 	<div class="block-contacts" id="contacts">
 		<div class="container">
 			<h2>Контакты</h2>
-			<p>Подробное
-				<router-link to="/about">
-					резюме
-				</router-link>
-			</p>
 			<div class="labels">
 				<div class="city">
 					<img src="../assets/images/svg/placeholder.svg" alt="Город">
