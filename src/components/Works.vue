@@ -55,7 +55,7 @@
 				isInfoVisible: false,
 				list: [
 					{
-						href: 'https://irene-97.github.io/dior-addict/',
+						href: 'https://irinely.github.io/dior-addict/',
 						year: '2018',
 						fullDate: 'январь 2018',
 						src: 'Dior.jpg',
@@ -103,7 +103,7 @@
 						text: 'Дизайн, вёрстка и программирование сайта «Кулинарные рецепты»',
 					},
 					{
-						href: 'https://irene-97.github.io/zebra/',
+						href: 'https://irinely.github.io/zebra/',
 						year: '2017',
 						fullDate: 'август 2017',
 						src: 'Zebra.jpg',
@@ -119,7 +119,7 @@
 						text: 'Дизайн сайта магазина игрушек',
 					},
 					{
-						href: 'https://irene-97.github.io/bakery/',
+						href: 'https://irinely.github.io/bakery/',
 						year: '2017',
 						fullDate: 'сентябрь 2017',
 						src: 'bakery.jpg',
@@ -127,7 +127,7 @@
 						text: 'Вёрстка сайта пекарни',
 					},
 					{
-						href: 'https://irene-97.github.io/winter-resort/',
+						href: 'https://irinely.github.io/winter-resort/',
 						year: '2017',
 						fullDate: 'ноябрь 2017',
 						src: 'crios.jpg',
@@ -143,7 +143,7 @@
 						text: 'Дизайн, вёрстка и программирование доски объявлений',
 					},
 					{
-						href: 'https://irene-97.github.io/cantus/',
+						href: 'https://irinely.github.io/cantus/',
 						year: '2017',
 						fullDate: 'декабрь 2017',
 						src: 'cantus.jpg',
@@ -159,7 +159,7 @@
 						text: 'Дизайн сайта доставки суши и роллов',
 					},
 					{
-						href: 'https://irene-97.github.io/my-charity/',
+						href: 'https://irinely.github.io/my-charity/',
 						year: '2017',
 						fullDate: 'октябрь 2017',
 						src: 'my-charity.jpg',
@@ -167,7 +167,7 @@
 						text: 'Вёрстка сайта «My Charity»',
 					},
 					{
-						href: 'https://irene-97.github.io/author-blog/',
+						href: 'https://irinely.github.io/author-blog/',
 						year: '2017',
 						fullDate: 'ноябрь 2017',
 						src: 'author-blog.jpg',
@@ -191,7 +191,7 @@
 						text: 'Дизайн, вёрстка и программирование сайта «Поэт Н.М.Языков»',
 					},
 					{
-						href: 'https://irene-97.github.io/lispum-media/',
+						href: 'https://irinely.github.io/lispum-media/',
 						year: '2017',
 						fullDate: 'октябрь 2017',
 						src: 'lispum-media.jpg',
@@ -199,7 +199,7 @@
 						text: 'Вёрстка сайта «Lispum Media»',
 					},
 					{
-						href: 'https://irene-97.github.io/mobile-app/',
+						href: 'https://irinely.github.io/mobile-app/',
 						year: '2017',
 						fullDate: 'октябрь 2017',
 						src: 'mobileApp.jpg',
@@ -223,7 +223,7 @@
 						text: 'Дизайн сайта «СуперДАЧА» (тестовое задание)',
 					},
 					{
-						href: 'https://irene-97.github.io/strict/',
+						href: 'https://irinely.github.io/strict/',
 						year: '2017',
 						fullDate: 'октябрь 2017',
 						src: 'strict.jpg',
@@ -253,15 +253,7 @@
 						src: 'doctor-pets.jpg',
 						alt: 'Ветклиника',
 						text: 'Дизайн сайта ветклиники',
-					},
-					{
-						href: 'https://pizza.beliarh.net/',
-						year: '2016',
-						fullDate: 'декабрь 2016',
-						src: 'pizza.jpg',
-						alt: 'Доставка пиццы',
-						text: 'Дизайн, вёрстка и программирование лендинга доставки пиццы',
-					},
+					}
 				],
 			};
 		},

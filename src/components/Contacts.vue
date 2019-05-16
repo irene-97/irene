@@ -26,19 +26,19 @@
 				<a href="mailto:artemova.irene@gmail.com" target="_blank" title="Gmail">
 					<img src="../assets/images/svg/gmail.svg" alt="Gmail">
 				</a>
-				<a href="https://vk.com/irene.artemova" target="_blank" title="Вконтакте">
+				<a href="https://vk.com/irinely_art" target="_blank" title="Вконтакте">
 					<img src="../assets/images/svg/vk.svg" alt="Вконтакте">
 				</a>
-				<a href="https://github.com/irene-97" target="_blank" title="Github">
+				<a href="https://github.com/irinely" target="_blank" title="Github">
 					<img src="../assets/images/svg/github-logo.svg" alt="Github">
 				</a>
-				<a href="https://www.behance.net/irene_atremova" target="_blank" title="Behance">
+				<a href="https://www.behance.net/irinely_art" target="_blank" title="Behance">
 					<img src="../assets/images/svg/behance.svg" alt="Behance">
 				</a>
 				<a href="skype:irene_121997?chat" target="_blank" title="Skype">
 					<img src="../assets/images/svg/skype.svg" alt="Skype">
 				</a>
-				<a href="https://t.me/art_irene" target="_blank" title="Telegram">
+				<a href="https://t.me/irinely_art" target="_blank" title="Telegram">
 					<img src="../assets/images/svg/telegram.svg" alt="Telegram">
 				</a>
 			</div>
