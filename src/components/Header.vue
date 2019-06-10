@@ -23,7 +23,7 @@
 					<a href="#" v-scroll-to="'#contacts'">
 						Контакты
 					</a>
-					<a class="active" href="https://ireneblog.beliarh.net/" target="_blank">
+					<a class="active" href="https://irinely.art" target="_blank">
 						Блог
 					</a>
 				</div>

@@ -4,9 +4,9 @@ Irene
 
 
  * [Портфолио](https://irene.beliarh.net/)
- * [Блог](https://ireneblog.beliarh.net/)
+ * [Блог](https://irinely.art/)
  
 
- ![Irene Artemova]( https://ireneblog.beliarh.net/wp-content/uploads/2017/10/cropped-irene-main-logo-2.png)
+ ![Irene Artemova](https://irinely.art/share.png)
  
  © Ирина Артемова, 2019
