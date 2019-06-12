@@ -63,7 +63,7 @@
 						text: 'Вёрстка лендинга косметики «Dior»',
 					},
 					{
-						href: 'https://premia.beliarh.net/',
+						href: 'https://premia.work.irinely.art/',
 						year: '2016',
 						fullDate: 'июль 2016',
 						src: 'premia.jpg',
@@ -71,7 +71,7 @@
 						text: 'Вёрстка сайта премии «Лидер конкурентных закупок»',
 					},
 					{
-						href: 'https://birtrans.beliarh.net/',
+						href: 'https://birtrans.work.irinely.art/',
 						year: '2016',
 						fullDate: 'август 2016',
 						src: 'birtrans.jpg',
@@ -79,7 +79,7 @@
 						text: 'Вёрстка сайта транспортной компании «Биртранс»',
 					},
 					{
-						href: 'https://v-bank.beliarh.net/',
+						href: 'https://v-bank.work.irinely.art/',
 						year: '2018',
 						fullDate: 'июнь 2018',
 						src: 'vbank.jpg',
@@ -87,7 +87,7 @@
 						text: 'Вёрстка страницы сайта банка «Венец»',
 					},
 					{
-						href: 'https://domchehov.beliarh.net/',
+						href: 'https://domchehov.work.irinely.art/',
 						year: '2016',
 						fullDate: 'октябрь 2016',
 						src: 'domchehov.jpg',
@@ -95,7 +95,7 @@
 						text: 'Вёрстка сайта мебельного магазина «МДЧ»',
 					},
 					{
-						href: 'https://cookery.beliarh.net/',
+						href: 'https://cookery.work.irinely.art/',
 						year: '2017',
 						fullDate: 'ноябрь 2016 - январь 2017',
 						src: 'cookery.jpg',
@@ -135,7 +135,7 @@
 						text: 'Вёрстка лендинга зимнего курорта',
 					},
 					{
-						href: 'https://advertany.beliarh.net/',
+						href: 'https://advertany.work.irinely.art/',
 						year: '2017',
 						fullDate: 'март - май 2017',
 						src: 'advertany.jpg',
@@ -175,7 +175,7 @@
 						text: 'Вёрстка блога',
 					},
 					{
-						href: 'https://irene.beliarh.net/',
+						href: '/',
 						year: '2017',
 						fullDate: 'июль 2017 - наст.вр.',
 						src: 'irene.beliarh.jpg',
@@ -183,7 +183,7 @@
 						text: 'Дизайн, вёрстка и программирование портфолио веб-разработчика',
 					},
 					{
-						href: 'https://yazykov.beliarh.net/',
+						href: 'https://yazykov.work.irinely.art/',
 						year: '2017',
 						fullDate: 'октябрь 2016 - январь 2017',
 						src: 'yazykov.jpg',
@@ -220,7 +220,7 @@
 						fullDate: 'сентябрь 2017',
 						src: 'dasha.jpg',
 						alt: 'Супер ДАЧА',
-						text: 'Дизайн сайта «СуперДАЧА» (тестовое задание)',
+						text: 'Дизайн сайта «СуперДАЧА»',
 					},
 					{
 						href: 'https://irinely.github.io/strict/',
