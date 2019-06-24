@@ -41,7 +41,7 @@
 				<a href="#" v-scroll-to="'#contacts'">
 					Контакты
 				</a>
-				<a href="https://ireneblog.beliarh.net/" target="_blank">
+				<a href="https://irinely.art/" target="_blank">
 					Блог
 				</a>
 			</div>
