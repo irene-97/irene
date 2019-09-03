@@ -8,14 +8,20 @@ html,
 body {
 	min-width: 640px;
 	box-sizing: border-box;
-	font-family: $font-family-roboto, sans-serif;
+	font-family: var(--font-family-roboto), sans-serif;
 	font-size: 25px;
 	line-height: 25px;
-	background: $color-gallery;
+	background: var(--color-gallery);
 }
 
 html {
 	box-sizing: border-box;
+}
+
+#app {
+	position: relative;
+	overflow: hidden;
+	min-width: 640px;
 }
 
 h2 {
@@ -24,9 +30,9 @@ h2 {
 	line-height: 60px;
 	text-align: center;
 	text-transform: uppercase;
-	color: $color-deep-cerulean;
+	color: var(--color-deep-cerulean);
 }
 
 .page-about {
-	background-color: $color-deep-cerulean;
+	background-color: var(--color-deep-cerulean);
 }

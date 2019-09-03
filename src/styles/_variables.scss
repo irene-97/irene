@@ -1,14 +1,11 @@
-// COLORS
-
-$color-alizarin-crimson: #d7203e;
-$color-black: #000;
-$color-cod-gray: #0b090a;
-$color-gallery: #efefef;
-$color-deep-cerulean: #0077b3;
-$color-white: #fff;
-$color-dove-gray: #696969;
-$color-bodger-blue: #1e90ff;
-
-// FONTS
-
-$font-family-roboto: "Roboto", sans-serif;
+:root {
+	--color-alizarin-crimson: #d7203e;
+	--color-black: #000;
+	--color-cod-gray: #0b090a;
+	--color-gallery: #efefef;
+	--color-deep-cerulean: #0077b3;
+	--color-white: #fff;
+	--color-dove-gray: #696969;
+	--color-bodger-blue: #1e90ff;
+	--font-family-roboto: "Roboto", sans-serif;
+}
