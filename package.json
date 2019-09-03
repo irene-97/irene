@@ -1,27 +1,38 @@
 {
-  "name": "irene",
-  "version": "3.0.0",
-  "description": "Портфолио",
-  "author": "Irene Artemova <artemova.irene@gmail.com>",
-  "license": "MIT",
-  "private": true,
-  "scripts": {
-    "serve": "vue-cli-service serve",
-    "build": "vue-cli-service build"
-  },
-  "dependencies": {
-    "babel-polyfill": "^6.26.0",
-    "ninelines-ua-parser": "^1.1.2",
-    "vue": "^2.5.16",
-    "vue-gallery": "^1.4.0",
-    "vue-router": "^3.0.1",
-    "vue-scrollto": "^2.11.0"
-  },
-  "devDependencies": {
-    "@vue/cli-plugin-babel": "^3.0.0-rc.5",
-    "@vue/cli-service": "^3.0.0-rc.5",
-    "node-sass": "^4.9.0",
-    "sass-loader": "^7.0.1",
-    "vue-template-compiler": "^2.5.16"
-  }
+	"name": "irene",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"build": "gatsby build",
+		"develop": "gatsby develop",
+		"start": "npm run develop",
+		"serve": "gatsby serve"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/irinely/irene.git"
+	},
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/irinely/irene/issues"
+	},
+	"homepage": "https://github.com/irinely/irene#readme",
+	"dependencies": {
+		"gatsby": "^2.14.6",
+		"gatsby-image": "^2.2.14",
+		"gatsby-plugin-manifest": "^2.2.10",
+		"gatsby-plugin-react-helmet": "^3.1.5",
+		"gatsby-plugin-sass": "^2.1.13",
+		"gatsby-plugin-sharp": "^2.2.18",
+		"gatsby-source-filesystem": "^2.1.18",
+		"gatsby-transformer-json": "^2.2.6",
+		"gatsby-transformer-sharp": "^2.2.12",
+		"node-sass": "^4.12.0",
+		"normalize.css": "^8.0.1",
+		"react": "^16.9.0",
+		"react-dom": "^16.9.0",
+		"react-helmet": "^5.2.1"
+	}
 }
