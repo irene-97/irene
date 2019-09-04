@@ -1,4 +1,5 @@
 import React from 'react';
+import AnchorLink from 'react-anchor-link-smooth-scroll';
 import './index.scss';
 
 import hamburger from './images/hamburger.svg';
@@ -32,15 +33,15 @@ export default class Header extends React.Component {
 							</svg>
 						</div>
 						<div className="header__navigation">
-							<a href="#works">
+							<AnchorLink  href="#works">
 								Работы
-							</a>
-							<a href="#contacts">
+							</AnchorLink>
+							<AnchorLink href="#contacts">
 								Контакты
-							</a>
-							<a className="active" href="https://irinely.art" target="_blank">
+							</AnchorLink>
+							<AnchorLink className="active" href="https://irinely.art" target="_blank">
 								Блог
-							</a>
+							</AnchorLink>
 						</div>
 						<button
 							className="header__hamburger"
@@ -50,15 +51,15 @@ export default class Header extends React.Component {
 							<img src={hamburger} alt="Меню"/>
 						</button>
 						<div className={'header__navigation-small' + (this.state.isOpen ? ' is-open' : '')}>
-							<a href="#works">
+							<AnchorLink href="#works">
 								Работы
-							</a>
-							<a href="#contacts">
+							</AnchorLink>
+							<AnchorLink href="#contacts">
 								Контакты
-							</a>
-							<a href="https://irinely.art/" target="_blank">
+							</AnchorLink>
+							<AnchorLink href="https://irinely.art/" target="_blank">
 								Блог
-							</a>
+							</AnchorLink>
 						</div>
 					</div>
 					<div className="header__title">
@@ -69,9 +70,9 @@ export default class Header extends React.Component {
 						вёрстка сайтов
 					</div>
 					<div className="header__arrow bounce">
-						<a href="#works">
+						<AnchorLink href="#works">
 							<img src={arrow} alt="Вниз"/>
-						</a>
+						</AnchorLink>
 					</div>
 				</div>
 			</header>
