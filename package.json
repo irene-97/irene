@@ -1,7 +1,8 @@
 {
-	"name": "irene",
-	"version": "1.0.0",
+	"name": "projects-irinely",
+	"version": "4.0.0",
 	"description": "",
+	"author": "Irene Artemova <artemova.irene@gmail.com>",
 	"main": "index.js",
 	"scripts": {
 		"build": "gatsby build",
@@ -13,8 +14,7 @@
 		"type": "git",
 		"url": "git+https://github.com/irinely/irene.git"
 	},
-	"author": "",
-	"license": "ISC",
+	"license": "MIT",
 	"bugs": {
 		"url": "https://github.com/irinely/irene/issues"
 	},
