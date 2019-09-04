@@ -1,11 +1,194 @@
 [
 	{
-		"title": "Work 1"
+		"href": "https://irinely.github.io/lean/",
+		"year": "2019",
+		"src": "../src/images/works/lean.jpg",
+		"alt": "Lean",
+		"text": "Вёрстка и frontend-часть сайта «Lean» (React)",
+		"plateText": ""
 	},
 	{
-		"title": "Work 2"
+		"href": "https://irinely.github.io/cs-landing/",
+		"year": "2019",
+		"src": "../src/images/works/creatives.jpg",
+		"alt": "Creatives",
+		"text": "Вёрстка лендинга «CS Creatives» (React)",
+		"plateText": ""
 	},
 	{
-		"title": "Work 3"
+		"href": "https://irinely.github.io/dior-addict/",
+		"year": "2018",
+		"src": "../src/images/works/dior.jpg",
+		"alt": "Dior",
+		"text": "Вёрстка лендинга косметики «Dior»",
+		"plateText": ""
+	},
+	{
+		"href": "http://www.premia-zakupki.ru/",
+		"year": "2016",
+		"src": "../src/images/works/premia.jpg",
+		"alt": "Лидер конкурентных закупок",
+		"text": "Вёрстка сайта премии «Лидер конкурентных закупок»",
+		"plateText": ""
+	},
+	{
+		"href": "https://www.birtrans.msk.ru/",
+		"year": "2016",
+		"src": "../src/images/works/birtrans.jpg",
+		"alt": "Транспортная компания",
+		"text": "Вёрстка сайта транспортной компании «Биртранс»",
+		"plateText": ""
+	},
+	{
+		"href": "https://irinely.github.io/v-bank/",
+		"year": "2018",
+		"src": "../src/images/works/vbank.jpg",
+		"alt": "Банк",
+		"text": "Вёрстка страницы сайта банка «Венец»",
+		"plateText": ""
+	},
+	{
+		"href": "https://domchehov.ru/",
+		"year": "2016",
+		"src": "../src/images/works/domchehov.jpg",
+		"alt": "МДЧ",
+		"text": "Вёрстка сайта мебельного магазина «МДЧ»",
+		"plateText": ""
+	},
+	{
+		"href": "https://irinely.github.io/zebra/",
+		"year": "2017",
+		"src": "../src/images/works/zebra.jpg",
+		"alt": "Zebra",
+		"text": "Вёрстка сайта магазина одежды «Zebra»",
+		"plateText": ""
+	},
+	{
+		"href": "https://irinely.github.io/winter-resort/",
+		"year": "2017",
+		"src": "../src/images/works/crios.jpg",
+		"alt": "Crios",
+		"text": "Вёрстка лендинга зимнего курорта",
+		"plateText": ""
+	},
+	{
+		"href": "https://irinely.github.io/cantus/",
+		"year": "2017",
+		"src": "../src/images/works/cantus.jpg",
+		"alt": "Cantus",
+		"text": "Вёрстка музыкального сайта",
+		"plateText": ""
+	},
+	{
+		"href": "https://irinely.github.io/my-charity/",
+		"year": "2017",
+		"src": "../src/images/works/my-charity.jpg",
+		"alt": "My Charity",
+		"text": "Вёрстка сайта «My Charity»",
+		"plateText": ""
+	},
+	{
+		"href": "https://irinely.github.io/author-blog/",
+		"year": "2017",
+		"src": "../src/images/works/author-blog.jpg",
+		"alt": "Блог",
+		"text": "Вёрстка блога",
+		"plateText": ""
+	},
+	{
+		"href": "https://projects.irinely.art/",
+		"year": "2017 - наст.вр",
+		"src": "../src/images/works/irene.jpg",
+		"alt": "Портфолио Ирины Артемовой",
+		"text": "Дизайн, вёрстка и программирование портфолио веб-разработчика",
+		"plateText": ""
+	},
+	{
+		"href": "https://irinely.github.io/lispum-media/",
+		"year": "2017",
+		"src": "../src/images/works/lispum-media.jpg",
+		"alt": "Lispum Media",
+		"text": "Вёрстка сайта «Lispum Media»",
+		"plateText": ""
+	},
+	{
+		"href": "https://irinely.github.io/mobile-app/",
+		"year": "2017",
+		"src": "../src/images/works/mobileapp.jpg",
+		"alt": "MobileApp",
+		"text": "Вёрстка лендинга «MobileApp»",
+		"plateText": ""
+	},
+	{
+		"href": "https://irinely.github.io/strict/",
+		"year": "2017",
+		"src": "../src/images/works/strict.jpg",
+		"alt": "Strict",
+		"text": "Вёрстка лендинга «Strict»",
+		"plateText": ""
+	},
+	{
+		"href": "https://irinely.github.io/bakery/",
+		"year": "2017",
+		"src": "../src/images/works/bakery.jpg",
+		"alt": "Пекарня",
+		"text": "Вёрстка сайта пекарни",
+		"plateText": ""
+	},
+	{
+		"href": "https://www.behance.net/gallery/57167207/dostavka-sushi-i-rollov",
+		"year": "2017",
+		"src": "../src/images/works/sushi.jpg",
+		"alt": "Доставка суши и роллов",
+		"text": "Дизайн сайта доставки суши и роллов",
+		"plateText": ""
+	},
+	{
+		"href": "https://www.behance.net/gallery/57340031/super-dacha-(testovoe-zadanie-dlja-IDEM",
+		"year": "2017",
+		"src": "../src/images/works/dacha.jpg",
+		"alt": "Супер ДАЧА",
+		"text": "Дизайн сайта «СуперДАЧА»",
+		"plateText": ""
+	},
+	{
+		"href": "https://www.behance.net/gallery/56565199/Portfolio",
+		"year": "2017",
+		"src": "../src/images/works/portfolio.jpg",
+		"alt": "Портфолио",
+		"text": "Дизайн сайта-портфолио",
+		"plateText": ""
+	},
+	{
+		"href": "https://www.behance.net/gallery/59828687/noch-prodazh-avtomobilej",
+		"year": "2017",
+		"src": "../src/images/works/luxe.jpg",
+		"alt": "Ночь продаж Luxe Fiat",
+		"text": "Дизайн лендинга ночи продаж автомобилей",
+		"plateText": ""
+	},
+	{
+		"href": "https://www.behance.net/gallery/56278679/ShopBear",
+		"year": "2017",
+		"src": "../src/images/works/shopbear.jpg",
+		"alt": "Магазин мишек",
+		"text": "Дизайн сайта магазина игрушек",
+		"plateText": ""
+	},
+	{
+		"href": "https://www.behance.net/gallery/56283119/kofejnja",
+		"year": "2017",
+		"src": "../src/images/works/cafe.jpg",
+		"alt": "Кофейня",
+		"text": "Дизайн сайта кофейни",
+		"plateText": ""
+	},
+	{
+		"href": "https://www.behance.net/gallery/56539131/vetklinika",
+		"year": "2017",
+		"src": "../src/images/works/doctor-pets.jpg",
+		"alt": "Ветклиника",
+		"text": "Дизайн сайта ветклиники",
+		"plateText": ""
 	}
 ]

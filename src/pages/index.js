@@ -3,11 +3,10 @@ import {graphql, Link} from 'gatsby';
 import '../styles/index.scss';
 import Helmet from 'react-helmet';
 import Header from '../components/Header';
+import Works from '../components/Works';
 
 export default class IndexPage extends React.Component {
 	render() {
-		const {data: {allWorksJson: {edges}}} = this.props;
-
 		return (
 			<div id="app">
 				<Helmet>
@@ -18,20 +17,8 @@ export default class IndexPage extends React.Component {
 					<meta name="image" content="https://projects.irinely.art/images/share.jpg"/>
 				</Helmet>
 				<Header/>
+				<Works/>
 			</div>
 		);
 	}
 }
-
-export const query = graphql`
-	{
-		allWorksJson {
-			edges {
-				node {
-					id
-					title
-				}
-			}
-		}
-	}
-`;
