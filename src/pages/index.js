@@ -4,6 +4,7 @@ import '../styles/index.scss';
 import Helmet from 'react-helmet';
 import Header from '../components/Header';
 import Works from '../components/Works';
+import Contacts from '../components/Contacts';
 
 export default class IndexPage extends React.Component {
 	render() {
@@ -18,6 +19,7 @@ export default class IndexPage extends React.Component {
 				</Helmet>
 				<Header/>
 				<Works/>
+				<Contacts/>
 			</div>
 		);
 	}
