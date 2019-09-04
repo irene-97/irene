@@ -12,30 +12,4 @@
 		text-align: center;
 		color: var(--color-white);
 	}
-
-	.cat {
-		position: absolute;
-		left: 74px;
-		top: -182px;
-		overflow: hidden;
-		width: 160px;
-		opacity: 0;
-		visibility: hidden;
-		transform: translate3d(0, 100%, 0);
-		transition: opacity 0.5s ease, visibility 0.5s ease, transform 0.5s ease;
-
-		img {
-			display: block;
-			width: 100%;
-		}
-	}
-
-	&:hover {
-		.cat {
-			opacity: 1;
-			visibility: visible;
-			transform: translate3d(0, 0, 0);
-			transition: opacity 0.25s ease, visibility 0.25s ease, transform 0.25s ease;
-		}
-	}
 }
