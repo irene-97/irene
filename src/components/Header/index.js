@@ -35,9 +35,6 @@ export default class Header extends React.Component {
 							<a href="#works">
 								Работы
 							</a>
-							<a href="#achievements">
-								Достижения
-							</a>
 							<a href="#contacts">
 								Контакты
 							</a>
@@ -55,9 +52,6 @@ export default class Header extends React.Component {
 						<div className={'header__navigation-small' + (this.state.isOpen ? ' is-open' : '')}>
 							<a href="#works">
 								Работы
-							</a>
-							<a href="#achievements">
-								Достижения
 							</a>
 							<a href="#contacts">
 								Контакты

@@ -18,10 +18,12 @@ export default class IndexPage extends React.Component {
 					<meta name="description" content="Ирина Артемова. Портфолио веб-разработчика"/>
 					<meta name="image" content="https://projects.irinely.art/images/share.jpg"/>
 				</Helmet>
-				<Header/>
-				<Works/>
-				<Contacts/>
-				<Copyright/>
+				<div className="page">
+					<Header/>
+					<Works/>
+					<Contacts/>
+					<Copyright/>
+				</div>
 			</div>
 		);
 	}
