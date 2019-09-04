@@ -5,6 +5,7 @@ import Helmet from 'react-helmet';
 import Header from '../components/Header';
 import Works from '../components/Works';
 import Contacts from '../components/Contacts';
+import Copyright from '../components/Copyright';
 
 export default class IndexPage extends React.Component {
 	render() {
@@ -20,6 +21,7 @@ export default class IndexPage extends React.Component {
 				<Header/>
 				<Works/>
 				<Contacts/>
+				<Copyright/>
 			</div>
 		);
 	}
