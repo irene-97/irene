@@ -39,9 +39,9 @@ export default class Header extends React.Component {
 							<AnchorLink href="#contacts">
 								Контакты
 							</AnchorLink>
-							<AnchorLink className="active" href="https://irinely.art" target="_blank">
+							<a className="active" href="https://irinely.art" target="_blank">
 								Блог
-							</AnchorLink>
+							</a>
 						</div>
 						<button
 							className="header__hamburger"

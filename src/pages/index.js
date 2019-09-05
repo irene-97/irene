@@ -13,10 +13,10 @@ export default class IndexPage extends React.Component {
 			<div id="app">
 				<Helmet>
 					<title>
-						Projects Irinely
+						Projects Irinely Art | Ирина Артемова
 					</title>
 					<meta name="description" content="Ирина Артемова. Портфолио веб-разработчика"/>
-					<meta name="image" content="https://projects.irinely.art/images/share.jpg"/>
+					<meta name="image" content="https://irinely.art/share.png"/>
 				</Helmet>
 				<div className="page">
 					<Header/>
