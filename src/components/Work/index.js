@@ -6,10 +6,11 @@ export default class Work extends React.Component {
 		const {href, year, image, alt, text, plateText, hidden} = this.props;
 
 		return (
-			<a className={'work' + (hidden ? ' hidden' : '')} href={href}>
+			<a className={'work' + (hidden ? ' hidden' : '')} href={href} target="_blank">
 				<img src={image.src} alt={alt}/>
 				<p>{text}</p>
-				<span>{year}</span>
+				<span className="work__year">{year}</span>
+				<span className="work__plate">{plateText}</span>
 			</a>
 		);
 	}

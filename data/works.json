@@ -4,8 +4,8 @@
 		"year": "2019",
 		"src": "../src/images/works/lean.jpg",
 		"alt": "Lean",
-		"text": "Вёрстка и frontend-часть сайта «Lean» (React)",
-		"plateText": ""
+		"text": "Вёрстка и frontend-часть сайта «Lean»",
+		"plateText": "React • SCSS"
 	},
 	{
 		"href": "https://irinely.github.io/cs-landing/",
@@ -13,7 +13,7 @@
 		"src": "../src/images/works/creatives.jpg",
 		"alt": "Creatives",
 		"text": "Вёрстка лендинга «CS Creatives» (React)",
-		"plateText": ""
+		"plateText": "React • SCSS"
 	},
 	{
 		"href": "https://irinely.github.io/dior-addict/",
@@ -21,7 +21,15 @@
 		"src": "../src/images/works/dior.jpg",
 		"alt": "Dior",
 		"text": "Вёрстка лендинга косметики «Dior»",
-		"plateText": ""
+		"plateText": "Pug • SCSS • jQuery"
+	},
+	{
+		"href": "https://projects.irinely.art/",
+		"year": "2019",
+		"src": "../src/images/works/irene.jpg",
+		"alt": "Портфолио Ирины Артемовой",
+		"text": "Дизайн, вёрстка и программирование портфолио веб-разработчика",
+		"plateText": "Gatsby • React • SCSS"
 	},
 	{
 		"href": "http://www.premia-zakupki.ru/",
@@ -29,7 +37,7 @@
 		"src": "../src/images/works/premia.jpg",
 		"alt": "Лидер конкурентных закупок",
 		"text": "Вёрстка сайта премии «Лидер конкурентных закупок»",
-		"plateText": ""
+		"plateText": "Php как шаблонизатор • SCSS • jQuery"
 	},
 	{
 		"href": "https://www.birtrans.msk.ru/",
@@ -37,7 +45,7 @@
 		"src": "../src/images/works/birtrans.jpg",
 		"alt": "Транспортная компания",
 		"text": "Вёрстка сайта транспортной компании «Биртранс»",
-		"plateText": ""
+		"plateText": "Php как шаблонизатор • SCSS • jQuery"
 	},
 	{
 		"href": "https://irinely.github.io/v-bank/",
@@ -45,7 +53,7 @@
 		"src": "../src/images/works/vbank.jpg",
 		"alt": "Банк",
 		"text": "Вёрстка страницы сайта банка «Венец»",
-		"plateText": ""
+		"plateText": "Pug • SCSS"
 	},
 	{
 		"href": "https://domchehov.ru/",
@@ -53,7 +61,7 @@
 		"src": "../src/images/works/domchehov.jpg",
 		"alt": "МДЧ",
 		"text": "Вёрстка сайта мебельного магазина «МДЧ»",
-		"plateText": ""
+		"plateText": "Php как шаблонизатор • SCSS • jQuery"
 	},
 	{
 		"href": "https://irinely.github.io/zebra/",
@@ -61,7 +69,7 @@
 		"src": "../src/images/works/zebra.jpg",
 		"alt": "Zebra",
 		"text": "Вёрстка сайта магазина одежды «Zebra»",
-		"plateText": ""
+		"plateText": "Pug • SCSS • jQuery"
 	},
 	{
 		"href": "https://irinely.github.io/winter-resort/",
@@ -69,7 +77,7 @@
 		"src": "../src/images/works/crios.jpg",
 		"alt": "Crios",
 		"text": "Вёрстка лендинга зимнего курорта",
-		"plateText": ""
+		"plateText": "Pug • SCSS • jQuery"
 	},
 	{
 		"href": "https://irinely.github.io/cantus/",
@@ -77,7 +85,7 @@
 		"src": "../src/images/works/cantus.jpg",
 		"alt": "Cantus",
 		"text": "Вёрстка музыкального сайта",
-		"plateText": ""
+		"plateText": "Pug • SCSS • jQuery"
 	},
 	{
 		"href": "https://irinely.github.io/my-charity/",
@@ -85,7 +93,7 @@
 		"src": "../src/images/works/my-charity.jpg",
 		"alt": "My Charity",
 		"text": "Вёрстка сайта «My Charity»",
-		"plateText": ""
+		"plateText": "Pug • SCSS • jQuery"
 	},
 	{
 		"href": "https://irinely.github.io/author-blog/",
@@ -93,15 +101,7 @@
 		"src": "../src/images/works/author-blog.jpg",
 		"alt": "Блог",
 		"text": "Вёрстка блога",
-		"plateText": ""
-	},
-	{
-		"href": "https://projects.irinely.art/",
-		"year": "2017 - наст.вр",
-		"src": "../src/images/works/irene.jpg",
-		"alt": "Портфолио Ирины Артемовой",
-		"text": "Дизайн, вёрстка и программирование портфолио веб-разработчика",
-		"plateText": ""
+		"plateText": "Pug • SCSS"
 	},
 	{
 		"href": "https://irinely.github.io/lispum-media/",
@@ -109,7 +109,7 @@
 		"src": "../src/images/works/lispum-media.jpg",
 		"alt": "Lispum Media",
 		"text": "Вёрстка сайта «Lispum Media»",
-		"plateText": ""
+		"plateText": "Pug • SCSS"
 	},
 	{
 		"href": "https://irinely.github.io/mobile-app/",
@@ -117,7 +117,7 @@
 		"src": "../src/images/works/mobileapp.jpg",
 		"alt": "MobileApp",
 		"text": "Вёрстка лендинга «MobileApp»",
-		"plateText": ""
+		"plateText": "Pug • SCSS"
 	},
 	{
 		"href": "https://irinely.github.io/strict/",
@@ -125,7 +125,7 @@
 		"src": "../src/images/works/strict.jpg",
 		"alt": "Strict",
 		"text": "Вёрстка лендинга «Strict»",
-		"plateText": ""
+		"plateText": "Pug • SCSS • jQuery"
 	},
 	{
 		"href": "https://irinely.github.io/bakery/",
@@ -133,7 +133,7 @@
 		"src": "../src/images/works/bakery.jpg",
 		"alt": "Пекарня",
 		"text": "Вёрстка сайта пекарни",
-		"plateText": ""
+		"plateText": "Pug • SCSS • jQuery"
 	},
 	{
 		"href": "https://www.behance.net/gallery/57167207/dostavka-sushi-i-rollov",
@@ -141,7 +141,7 @@
 		"src": "../src/images/works/sushi.jpg",
 		"alt": "Доставка суши и роллов",
 		"text": "Дизайн сайта доставки суши и роллов",
-		"plateText": ""
+		"plateText": "Photoshop"
 	},
 	{
 		"href": "https://www.behance.net/gallery/57340031/super-dacha-(testovoe-zadanie-dlja-IDEM",
@@ -149,7 +149,7 @@
 		"src": "../src/images/works/dacha.jpg",
 		"alt": "Супер ДАЧА",
 		"text": "Дизайн сайта «СуперДАЧА»",
-		"plateText": ""
+		"plateText": "Photoshop"
 	},
 	{
 		"href": "https://www.behance.net/gallery/56565199/Portfolio",
@@ -157,7 +157,7 @@
 		"src": "../src/images/works/portfolio.jpg",
 		"alt": "Портфолио",
 		"text": "Дизайн сайта-портфолио",
-		"plateText": ""
+		"plateText": "Photoshop"
 	},
 	{
 		"href": "https://www.behance.net/gallery/59828687/noch-prodazh-avtomobilej",
@@ -165,7 +165,7 @@
 		"src": "../src/images/works/luxe.jpg",
 		"alt": "Ночь продаж Luxe Fiat",
 		"text": "Дизайн лендинга ночи продаж автомобилей",
-		"plateText": ""
+		"plateText": "Photoshop"
 	},
 	{
 		"href": "https://www.behance.net/gallery/56278679/ShopBear",
@@ -173,22 +173,6 @@
 		"src": "../src/images/works/shopbear.jpg",
 		"alt": "Магазин мишек",
 		"text": "Дизайн сайта магазина игрушек",
-		"plateText": ""
-	},
-	{
-		"href": "https://www.behance.net/gallery/56283119/kofejnja",
-		"year": "2017",
-		"src": "../src/images/works/cafe.jpg",
-		"alt": "Кофейня",
-		"text": "Дизайн сайта кофейни",
-		"plateText": ""
-	},
-	{
-		"href": "https://www.behance.net/gallery/56539131/vetklinika",
-		"year": "2017",
-		"src": "../src/images/works/doctor-pets.jpg",
-		"alt": "Ветклиника",
-		"text": "Дизайн сайта ветклиники",
-		"plateText": ""
+		"plateText": "Photoshop"
 	}
 ]
