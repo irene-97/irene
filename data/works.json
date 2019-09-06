@@ -37,7 +37,7 @@
 		"src": "../src/images/works/premia.jpg",
 		"alt": "Лидер конкурентных закупок",
 		"text": "Вёрстка сайта премии «Лидер конкурентных закупок»",
-		"plateText": "Php как шаблонизатор • SCSS • jQuery"
+		"plateText": "PHP как шаблонизатор • SCSS • jQuery"
 	},
 	{
 		"href": "https://www.birtrans.msk.ru/",
@@ -45,7 +45,7 @@
 		"src": "../src/images/works/birtrans.jpg",
 		"alt": "Транспортная компания",
 		"text": "Вёрстка сайта транспортной компании «Биртранс»",
-		"plateText": "Php как шаблонизатор • SCSS • jQuery"
+		"plateText": "PHP как шаблонизатор • SCSS • jQuery"
 	},
 	{
 		"href": "https://irinely.github.io/v-bank/",
@@ -61,7 +61,7 @@
 		"src": "../src/images/works/domchehov.jpg",
 		"alt": "МДЧ",
 		"text": "Вёрстка сайта мебельного магазина «МДЧ»",
-		"plateText": "Php как шаблонизатор • SCSS • jQuery"
+		"plateText": "PHP как шаблонизатор • SCSS • jQuery"
 	},
 	{
 		"href": "https://irinely.github.io/zebra/",
