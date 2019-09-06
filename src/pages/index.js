@@ -12,6 +12,7 @@ export default class IndexPage extends React.Component {
 		return (
 			<div id="app">
 				<Helmet>
+					<html lang="ru"/>
 					<title>
 						Projects Irinely Art | Ирина Артемова
 					</title>
